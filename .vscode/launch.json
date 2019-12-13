@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Average",
+            "request": "launch",
+            "mainClass": "Average"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Greatest",
+            "request": "launch",
+            "mainClass": "Greatest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Least",
+            "request": "launch",
+            "mainClass": "Least"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - least",
+            "request": "launch",
+            "mainClass": "least"
+        }
+    ]
+}
