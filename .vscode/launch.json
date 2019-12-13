@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - In",
+            "request": "launch",
+            "mainClass": "In"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Average",
             "request": "launch",
             "mainClass": "Average"
